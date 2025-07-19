@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 oyyy 
 it's a second example
+=======
+Hi it's a second example
+>>>>>>> origin/master
